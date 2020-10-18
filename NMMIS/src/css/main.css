@@ -1,0 +1,27 @@
+#particles-js{
+  background-image: url(../img/color.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.navigation-menu{
+	    position: absolute;
+    background: white;
+    width: 85px;
+    height: 100%;
+    top: 0;
+    left: calc(100% - 70px);
+}
+
+.width-adj{
+	left: 14%;
+    width: 82%;
+}
+
+.fontStyle{
+	font-size: 45px;
+}
